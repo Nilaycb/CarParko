@@ -25,7 +25,7 @@ public class Homepage extends javax.swing.JFrame {
     private int[] p_time = new int[10];
     private long[] p_tlimit = new long[10];
     private long[] p_rmv_notified = new long[10];
-    private final long RMV_NOTIFY_TIME = 30000; //30 ms
+    private final long RMV_NOTIFY_TIME = 30000; //30 s
 
     //Record new vehicle's entry
     private ArrayList r_vid = new ArrayList();
