@@ -2,7 +2,7 @@
 Car or Vehicle Parking Management System..(Simulation)
 
 # Overview
-Car/vehicle parking management system that helps to organize and to allocate parking space to the cars waiting or requesting for a parking space applying the best-fit algorithm.
+Car/vehicle parking management system simulation that demonstrates the organization and allocation of parking space to the cars waiting or requesting a parking space applying the best-fit algorithm.
 
 
 # License
